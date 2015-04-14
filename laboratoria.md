@@ -72,7 +72,7 @@ Dane należy wpisać poniżej, **w jednym wierszu**, w tym pliku, według tego s
 1. Szpaderski Marcin
 1. Szpak Piotr
 1. Turczuk Beata
-1. Warzocha Jędrzej
+1. Warzocha Jędrzej[215502](). [aplikacja](https://bitbucket.org/jwarzocha/miniblog/src/).
 1. Willma Adam
 1. Wyszyński Przemysław
 1. Zbierowski Maciej
